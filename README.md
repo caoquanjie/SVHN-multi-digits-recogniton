@@ -31,7 +31,7 @@ You also can view results in tensorboard.</br>
 
 
 
-`Run tensorboard --logdir=logs`
+Run `tensorboard --logdir=logs`
 
 
 
