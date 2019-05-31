@@ -2,7 +2,7 @@
 a tensorflow version implementation of [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1312.6082).
 
 ## SVHN dataset
-SVHN is obtained from house numbers in Google Street View images. The dataset can be download in [here](http://ufldl.stanford.edu/housenumbers/).</br>
+SVHN is obtained from house numbers in Google Street View images. The dataset can be download in [here(format1)](http://ufldl.stanford.edu/housenumbers/).</br>
 
 ## Training data samples
 ![](https://github.com/caoquanjie/SVHN-multi-digits-recogniton/tree/master/images/sample.jpg)
