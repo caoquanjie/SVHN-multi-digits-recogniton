@@ -5,7 +5,7 @@ a tensorflow version implementation of [Multi-digit Number Recognition from Stre
 SVHN is obtained from house numbers in Google Street View images. The dataset can be download in [here(format1)](http://ufldl.stanford.edu/housenumbers/).</br>
 
 ## Training data samples
-![](https://github.com/caoquanjie/SVHN-multi-digits-recogniton/tree/master/images/sample.jpg)
+![](https://github.com/caoquanjie/SVHN-multi-digits-recogniton/raw/master/images/sample.jpg)
 
 ## Requirements
 python 3.6</br>
@@ -22,7 +22,7 @@ Run `python convert_to_tfrecords.py`, you can get three tfrecords files.</br>
 Run `python main.py`
 
 ## Graph
-![](https://github.com/caoquanjie/SVHN-multi-digits-recogniton/tree/master/images/tensorboard_graph.png)
+![](https://github.com/caoquanjie/SVHN-multi-digits-recogniton/raw/master/images/tensorboard_graph.png)
 
 ## Result
 The recognition accuracy of this model is reached 96.04%.
